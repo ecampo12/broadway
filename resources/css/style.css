@@ -11,10 +11,12 @@ h1{
 
 nav{
   background-image: url("../images/the-flatiron-building.png");
+}
+
+a{
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-  font-weight: bold;
 }
 
 h2{
